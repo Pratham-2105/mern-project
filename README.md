@@ -1,6 +1,10 @@
 MERN Stack Notes Application
 A simple and intuitive MERN (MongoDB, Express.js, React, Node.js) stack application for creating, viewing, updating, and deleting notes. This project demonstrates a full-stack web application with a focus on clean architecture and modern development practices.
 
+🚀 Live Demo
+You can access the live deployed application here:
+https://mern-project-fz7t.onrender.com/
+
 ✨ Features
 Create Notes: Easily add new notes with a title and content.
 
@@ -54,38 +58,6 @@ DaisyUI: A Tailwind CSS component library for beautiful UI elements.
 react-hot-toast: For elegant and responsive toast notifications.
 
 lucide-react: A collection of beautiful open-source icons.
-
-📦 Project Structure
-.
-├── backend/
-│   ├── src/
-│   │   ├── controllers/
-│   │   ├── models/
-│   │   ├── routes/
-│   │   └── server.js
-│   ├── .env
-│   └── package.json
-├── frontend/
-│   ├── public/
-│   ├── src/
-│   │   ├── assets/
-│   │   ├── components/
-│   │   ├── pages/
-│   │   ├── libs/
-│   │   ├── App.jsx
-│   │   ├── main.jsx
-│   │   └── index.css
-│   ├── .eslintrc.cjs
-│   ├── index.html
-│   ├── postcss.config.js
-│   ├── tailwind.config.js
-│   └── vite.config.js
-├── .github/
-│   └── workflows/
-│       └── deploy.yml (Optional: for CI/CD)
-├── .gitignore
-├── package.json (Root package.json for monorepo scripts)
-└── README.md
 
 ⚙️ Setup and Installation
 Follow these steps to set up the project locally.
