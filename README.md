@@ -1,10 +1,6 @@
 MERN Stack Notes Application
 A simple and intuitive MERN (MongoDB, Express.js, React, Node.js) stack application for creating, viewing, updating, and deleting notes. This project demonstrates a full-stack web application with a focus on clean architecture and modern development practices.
 
-🚀 Live Demo
-You can access the live deployed application here:
-https://mern-project-fz7t.onrender.com/ (might take a minute to load)
-
 ✨ Features
 Create Notes: Easily add new notes with a title and content.
 View Notes: Display all your notes on a responsive homepage.
